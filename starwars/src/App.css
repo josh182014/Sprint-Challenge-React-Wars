@@ -12,6 +12,7 @@
   flex-wrap: wrap;
   align-content: center;
 }
+
 .characterContainer {
   background-color: white;
   max-width: 700px;
@@ -30,12 +31,14 @@
   display: flex;
   flex-wrap: wrap;
 }
+
 .more-info {
   width: 100%;
   padding-top: 20px;
   display: flex;
   flex-wrap: wrap;
 }
+
 .more-info strong {
     padding-right: 10px;
 }
