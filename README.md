@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+ReactJS is a JavaScript library. It solves being able to change content on the screen without having to to refresh the page.
+
 - [ ] What does it mean to _think_ in react?
+
+It's a way of thinking about building components with React. It makes code easy to read as it is more explicit and reusable. 
 
 - [ ] Describe state.
 
+State is where the data we are loading on the page is stored. State can be changed.
+
 - [ ] Describe props.
+
+Props are like state but they are immutable. 
 
 ## Project Set Up
 
